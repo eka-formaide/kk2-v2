@@ -1,1 +1,13 @@
-tes
+<!DOCTYPE html>
+   <html lang="id">
+   <head>
+     <meta charset="UTF-8">
+     <title>Profil Siswa</title>
+   </head>
+   <body>
+    <img src="butterfly.jpg"
+     <h1>Nama Lengkap:Eka diana sari</h1>
+     <h2>Kelas: XI TKJ 2</h2>
+     <h3>Sekolah: SMK PANCA BHAKTI RAKIT</h3>
+   </body>
+   </html>
